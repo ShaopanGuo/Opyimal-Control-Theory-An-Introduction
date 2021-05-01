@@ -1,5 +1,5 @@
 % 5-6
-% EE7560 Homework #3 Q2
+% EE7560 Homework #3 Q3
 
 syms s t x0 tao phi phi0;
 A=[-1 -1;-3 1];
